@@ -1,0 +1,12 @@
+/* body{
+    background-color: aqua;
+} */
+
+.panel-heading{
+    background-color: lightgreen;
+}
+
+.panel-title{
+    font-weight: bold;
+    text-align: center;
+}

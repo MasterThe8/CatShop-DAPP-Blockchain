@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Stan",
+    "picture": "images/siamese-2.jpg",
+    "age": 3,
+    "breed": "Siamese",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Jessica",
+    "picture": "images/british-shorthair-2.jpg",
+    "age": 3,
+    "breed": "British Shorthair",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/sphynx-2.jpg",
+    "age": 2,
+    "breed": "Sphynx",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/ragdoll-2.jpg",
+    "age": 2,
+    "breed": "Ragdoll",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/persian-cat-2.jpg",
+    "age": 2,
+    "breed": "Persian Cat",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/siberian-1.jpg",
+    "age": 3,
+    "breed": "Siberian",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Goldenglow",
+    "picture": "images/scottish-fold-2.jpg",
+    "age": 3,
+    "breed": "Scottish Fold",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/tonkinese-1.jpg",
+    "age": 3,
+    "breed": "Tonkinese",
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/abyssinian-1.jpg",
+    "age": 2,
+    "breed": "Abyssinian",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/devon-rex-2.jpg",
+    "age": 3,
+    "breed": "Devon Rex",
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "name": "Rosmontis",
+    "picture": "images/norwegian-forest-cat-1.jpg",
+    "age": 2,
+    "breed": "Norwegian Forest Cat",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/exotic-shorthair-2.jpg",
+    "age": 3,
+    "breed": "Exotic Shorthair",
+    "location": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/maine-coon-2.jpg",
+    "age": 3,
+    "breed": "Maine Coon",
+    "location": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/turkish-angora-1.jpg",
+    "age": 4,
+    "breed": "Turkish Anggora",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/balinese-1.jpg",
+    "age": 2,
+    "breed": "Balinese",
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/russian-blue-1.jpg",
+    "age": 2,
+    "breed": "Russian Blue",
+    "location": "Dawn, Wisconsin"
+  }
+]
